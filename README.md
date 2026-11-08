@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sarkhan! 👋
 
-<!--
-**sarkhhann/sarkhhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a frontend development learner focused on building practical projects and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Git & GitHub
+
+### 💻 Featured Project
+
+**🎬 [Advanced Movie App](https://github.com/sarkhhann/advanced-movie-app)**
+
+A responsive movie discovery application featuring:
+- Movie search, filtering, and pagination
+- Trending movies and detailed movie information
+- Light and dark mode
+- TMDB API integration through a Cloudflare Worker
+
+🌐 **[Live Demo](https://sarkhhann.github.io/advanced-movie-app/)**
+
+### 📚 Currently Learning
+
+Strengthening my JavaScript skills through hands-on projects. React is my next learning goal.
+
+---
+
+⭐ Always learning, building, and improving!
